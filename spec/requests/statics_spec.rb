@@ -1,5 +1,5 @@
 require 'spec_helper'
-
+=begin
 describe "Statics" do
   describe "GET /statics" do
     it "works! (now write some real specs)" do
@@ -9,3 +9,4 @@ describe "Statics" do
     end
   end
 end
+=end
